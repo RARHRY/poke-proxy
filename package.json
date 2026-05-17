@@ -1,0 +1,12 @@
+{
+  "name": "poke-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "poke-proxy-render.mjs",
+  "scripts": {
+    "start": "node poke-proxy-render.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
